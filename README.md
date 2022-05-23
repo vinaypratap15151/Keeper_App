@@ -1,8 +1,7 @@
 KEEPER APP USING REACT.JS
 
 Created a Keeper App which is kind of clone of google notes. In this
-you can store your notes and can mention your tasks. Once they r done
-or if you want to delete some notes you can process that any time
+you can store your notes and can mention your tasks ,if you want to delete some notes you can process that any time
 as well.
 
 
